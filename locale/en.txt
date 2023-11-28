@@ -1,0 +1,39 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 EcoPark PIK2
+
+## Media
+
+### Title
+album_F263B8A7_BB27_DFDE_4193_6CAC4FD1824B.label = Photo Album ProjectPIK2 (AreaEcopark)_ViewGerejaBEV_Draft01
+map_0B1DB67A_13D8_1612_41AB_4149656FBEBE.label = Siteplan Ecopark
+map_2032FA60_1468_1E2E_41A9_D47350FB80E5.label = Siteplan Rukan Rome
+map_20C58A13_1468_1E12_41A3_9B012854D732.label = Siteplan Rukan Petak Sembilan
+map_27F9DECF_1468_1673_41AD_CBB08A5D57DB.label = Siteplan Little Marrakesh
+panorama_004B9CD5_13E8_7A16_41A9_433F55EE5212.label = 360Ecopark_View01_EcoParkBEV
+panorama_006301D2_13E8_0A12_41B0_C51EBF9D0BD4.label = 360Ecopark_View02_PlazaCinTeYan
+panorama_0076A7EC_13E8_1636_41A7_1D919C830BBE.label = 360Ecopark_View04_KlentengCinTeYan
+panorama_007B610F_13E8_0BF2_41AC_0957A2522093.label = 360Ecopark_View07 MasjidAgungPlaza
+panorama_007F2821_13E8_1A2E_41AF_04FF4DDBC57A.label = 360Ecopark_View03_GrandWaterTown
+panorama_00831BC8_13E8_3E7E_4193_AAA085C48852.label = 360Ecopark_View08_Gereja
+panorama_00883BB3_13E8_3E12_4181_261E06B6A319.label = 360Ecopark_View06_HajiLane
+panorama_0088AF14_13E8_1615_41A6_B05ECC4A1D60.label = 360Ecopark_View09_Boulevard
+panorama_0088E0B9_13E8_0A1E_419B_71DE54714D6D.label = 360Ecopark_View05_MasjidAgung
+
+## Hotspot
+
+### Tooltip
+HotspotMapOverlayArea_41AC34B9_14D8_0A1E_41A4_9F4A5268FF00.toolTip = Haji Line
+HotspotMapOverlayArea_4218800F_14E8_09F2_41A3_5F5B9B90EFCE.toolTip = Klenteng Ci Te Yen
+HotspotMapOverlayArea_4320BBBC_14E8_1E16_418F_B91928832C85.toolTip = Plaza Cin Te Yen
+HotspotMapOverlayArea_43557641_14E8_366F_419B_0B00F763DA79.toolTip = Plaza Masjid Agung
+HotspotMapOverlayArea_47D87D10_14D8_1BED_41B1_13E42A0D4F61.toolTip = BEV Eco Park
+HotspotMapOverlayArea_49F58F48_14F8_167E_41A0_5AE6C79DECE6.toolTip = Boulevard
+HotspotMapOverlayArea_4D106DFA_14D8_1A12_419E_3A8BA4C67D22.toolTip = Masjid Agung
+HotspotMapOverlayArea_4DEE4166_14E8_0A35_4174_66CE044FEE20.toolTip = Grand WaterTown
+HotspotMapOverlayArea_4E4FC3F4_14E8_0E15_418A_4C693B8B80F3.toolTip = Gereja Basilica
