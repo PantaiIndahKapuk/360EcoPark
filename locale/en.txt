@@ -11,10 +11,10 @@ tour.name = 360 EcoPark PIK2
 
 ### Title
 album_F263B8A7_BB27_DFDE_4193_6CAC4FD1824B.label = Photo Album ProjectPIK2 (AreaEcopark)_ViewGerejaBEV_Draft01
-map_0B1DB67A_13D8_1612_41AB_4149656FBEBE.label = Siteplan Ecopark
-map_2032FA60_1468_1E2E_41A9_D47350FB80E5.label = Siteplan Rukan Rome
-map_20C58A13_1468_1E12_41A3_9B012854D732.label = Siteplan Rukan Petak Sembilan
-map_27F9DECF_1468_1673_41AD_CBB08A5D57DB.label = Siteplan Little Marrakesh
+map_0A661006_3575_89F8_41C7_EF6E4B397085.label = Rukan Rome
+map_0ABC3FD9_357A_9608_41C0_4AEB6C917857.label = Rukan Petak Sembilan
+map_27F9DECF_1468_1673_41AD_CBB08A5D57DB.label = Little Marrakesh
+map_7511542A_357A_8A08_41AA_65986800CC19.label = Ecopark
 panorama_004B9CD5_13E8_7A16_41A9_433F55EE5212.label = 360Ecopark_View01_EcoParkBEV
 panorama_006301D2_13E8_0A12_41B0_C51EBF9D0BD4.label = 360Ecopark_View02_PlazaCinTeYan
 panorama_0076A7EC_13E8_1636_41A7_1D919C830BBE.label = 360Ecopark_View04_KlentengCinTeYan
